@@ -14,8 +14,7 @@
     "subset font WebIcon Webfont"
   ],
   "author": "Roy",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "fontmin": "^0.9.8",
     "loader-utils": "^2.0.0",
